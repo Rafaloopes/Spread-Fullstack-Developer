@@ -1,0 +1,26 @@
+Backbone são estruturas que gerenciam conexões, fazendo uma ramificação para se conectar com outras backbone.
+
+Provedor de acesso, são as empresas telefonicas que contratam o sinal de backbone e repassam para usuário final.
+
+tipos de provedores
+
+Dial-up - discada
+ADSL - banda larga
+Fibra ótica 
+Rádio
+Satélite
+Móvel
+P2P
+
+tcp/ip
+
+transmission control protocol ou protocolo de controle de transmissão é o protocolo de comunicação entre computadores
+
+As 4 camadas do conexão
+
+1 - fisica (Exemplo: pela placa de rede)
+2 - rede (Exemplo: IP)
+3 - Transporte (Exemplo: tcp, udp)
+4 - Aplicação (Exemplo: ftp, smtp,http)
+
+
